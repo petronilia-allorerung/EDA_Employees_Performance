@@ -12,8 +12,7 @@ Libraries:
 1. Distribution of variabel 
 2. Identify patterns and trends
 3. Create visualizations
-4. Explore data correlations
-5. Detect outliers
+4. Detect outliers
 # Usage
 First thing you have to download the dataset and code Analysis from this repo. Then, if you have your own GPU you can download the Google Colab Notebook and run the script inside the notebook locally or you can upload this repo to your Google Drive then run it using the Google Colab's GPU.
 
