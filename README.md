@@ -17,7 +17,7 @@ Libraries:
 # Usage
 First thing you have to download the dataset and code Analysis from this repo. Then, if you have your own GPU you can download the Google Colab Notebook and run the script inside the notebook locally or you can upload this repo to your Google Drive then run it using the Google Colab's GPU.
 
-if you have any suggestions or feedback, please don't hesitate to contact to me in direct message on:
-Email : petroniliaallorerung@gmail.com 
+if you have any suggestions or feedback, please don't hesitate to contact to me in direct message on
+Email : petroniliaallorerung@gmail.com and
 Linkedin : www.linkedin.com/in/petronilia-allorerung16
 
